@@ -18,18 +18,18 @@ The dataset used in this project is a CSV file downloaded from Kaggle.com websit
   
 The dataset is loaded from car_dataset.csv and is cleaned and preprocessed for modeling.
 
-Key Steps
-1. Data Collection and Preprocessing
+## Key Steps
+1. Data Collection and Preprocessing:
 Loaded the dataset from a CSV file.
 Inspected the first few rows and checked the number of rows and columns.
 Handled missing values and performed data encoding on categorical variables (Fuel_Type, Seller_Type, Transmission).
 Split the dataset into features (X) and the target variable (Selling_Price).
-2. Model Training
+2. Model Training:
 Linear Regression Model: Trained a linear regression model to predict car prices using the features.
 Lasso Regression Model: Applied Lasso regression for regularization and model training.
-3. Model Evaluation
+3. Model Evaluation:
 Evaluated both models using R-squared as the evaluation metric to measure the accuracy of predictions.
 Visualized the relationship between actual and predicted prices using scatter plots for both training and test data.
-4. Results Visualization
+4. Results Visualization:
 Visualized the performance of the models by plotting actual prices against predicted prices.
 Plots show the accuracy and performance of each model.
