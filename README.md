@@ -24,12 +24,16 @@ Loaded the dataset from a CSV file.
 Inspected the first few rows and checked the number of rows and columns.
 Handled missing values and performed data encoding on categorical variables (Fuel_Type, Seller_Type, Transmission).
 Split the dataset into features (X) and the target variable (Selling_Price).
-2. Model Training:
+
+3. Model Training:
 Linear Regression Model: Trained a linear regression model to predict car prices using the features.
 Lasso Regression Model: Applied Lasso regression for regularization and model training.
-3. Model Evaluation:
+
+5. Model Evaluation:
 Evaluated both models using R-squared as the evaluation metric to measure the accuracy of predictions.
 Visualized the relationship between actual and predicted prices using scatter plots for both training and test data.
-4. Results Visualization:
+
+7. Results Visualization:
 Visualized the performance of the models by plotting actual prices against predicted prices.
 Plots show the accuracy and performance of each model.
+
