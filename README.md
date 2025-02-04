@@ -16,4 +16,4 @@ The dataset used in this project is a CSV file downloaded from Kaggle.com websit
 8. Transmission: Transmission type (Manual or Automatic)
 9. Owner: Number of previous owners of the car
   
-The dataset is loaded from car data.csv and is cleaned and preprocessed for modeling.
+The dataset is loaded from car_dataset.csv and is cleaned and preprocessed for modeling.
