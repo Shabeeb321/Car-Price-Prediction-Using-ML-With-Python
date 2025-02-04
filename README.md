@@ -51,5 +51,5 @@ Plots show the accuracy and performance of each model.
 
 ## Project Links
 
-Google Collab File: https://colab.research.google.com/drive/1NaWXHCffiZAdYa6Oz_DY2Ev2erdhhIvP#scrollTo=pdUrZlsrv39Z
-Dataset: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+Google Collab File: https://colab.research.google.com/drive/1NaWXHCffiZAdYa6Oz_DY2Ev2erdhhIvP#scrollTo=pdUrZlsrv39Z  
+Kaggle Dataset: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
