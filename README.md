@@ -39,7 +39,7 @@ Split the dataset into features (X) and the target variable (Selling_Price).
 
 3. Model Training:
    
-  Linear Regression Model: Trained a linear regression model to predict car prices using the features.
+  Linear Regression Model: Trained a linear regression model to predict car prices using the features.  
   Lasso Regression Model: Applied Lasso regression for regularization and model training.
 
 5. Model Evaluation:
