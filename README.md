@@ -6,9 +6,10 @@ This project implements a car price prediction model using two regression techni
 ## Dataset
 The dataset used in this project is a CSV file downloaded from Kaggle.com website containing car-related attributes such as:
 
-Car_Name: Name of the car (dropped for modeling)
-Fuel_Type: Type of fuel used (Petrol, Diesel, CNG)
-Seller_Type: Whether the seller is an individual or a dealer
-Transmission: Transmission type (Manual or Automatic)
-Selling_Price: Price at which the car is sold (target variable)
+1. Car_Name: Name of the car (dropped for modeling)  
+2. Fuel_Type: Type of fuel used (Petrol, Diesel, CNG)  
+3. Seller_Type: Whether the seller is an individual or a dealer  
+4. Transmission: Transmission type (Manual or Automatic)  
+5. Selling_Price: Price at which the car is sold (target variable)
+  
 The dataset is loaded from car data.csv and is cleaned and preprocessed for modeling.
